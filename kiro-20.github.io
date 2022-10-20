@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Kiro games store Host For PS4 505 & 672 & 702 & 75X & 900</title>
+<title>Kiro-games-store Host For PS4 505 & 672 & 702 & 75X & 900</title>
 <style type="text/css">
 body {
   background-color: #1A1920;  
